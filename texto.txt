@@ -2,8 +2,5 @@ Oi !
 27/03/2025 16:49 h - Inclui isto 
 
 Aiai
-<<<<<<< HEAD
-Inventei de mexer aqui
-=======
 Pronto, passou a dor
->>>>>>> main
+Inventei de mexer aqui
